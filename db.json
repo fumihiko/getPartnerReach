@@ -1,0 +1,17 @@
+{
+    "detailList": [
+        {
+            "prospectStatus": "Inactive",
+            "quantity": 1
+        },
+        {
+            "prospectStatus": "Active",
+            "quantity": 14
+        },
+        {
+            "prospectStatus": "Opted Out",
+            "quantity": 2
+        }
+    ],
+    "totalProspects": 17
+}
